@@ -14,24 +14,24 @@ For the machine learning model, we used Latent Sentiment Analysis to capture the
 Using these metrics, we can analyze prospects in several meaningful ways. First, we employed cosine similarity scores to compare players from the 2017-2023 period with those in the 2024 draft class. This approach allowed us to identify which current prospects closely resemble players from previous years. 
 
 For instance, here are the most similar players to the #1 pick Zaccharie Risacher, along with their respective similarity scores:
-Ochai Agbaji with similarity score: 0.7613
-Andrew Nembhard with similarity score: 0.7442
-Christian Braun with similarity score: 0.7067
-Ben Sheppard with similarity score: 0.6798
-Jd Davison with similarity score: 0.6627
+- Ochai Agbaji with similarity score: 0.7613
+- Andrew Nembhard with similarity score: 0.7442
+- Christian Braun with similarity score: 0.7067
+- Ben Sheppard with similarity score: 0.6798
+- Jd Davison with similarity score: 0.6627
 
 Similarly, for the #2 pick Alex Sarr, the closest matches were:
-Scoot Henderson with similarity score: 0.6813
-Victor Wembanyama with similarity score: 0.6764
-Jarace Walker with similarity score: 0.6671
-Colby Jones with similarity score: 0.6604
-Keyontae Johnson with similarity score: 0.6506
+- Scoot Henderson with similarity score: 0.6813
+- Victor Wembanyama with similarity score: 0.6764
+- Jarace Walker with similarity score: 0.6671
+- Colby Jones with similarity score: 0.6604
+- Keyontae Johnson with similarity score: 0.6506
 
 Using these rankings, we can examine player comparisons of interest for noteworthy prospects. Looking at the text from these reports, we can see why players like Zaccharie Risacher and Ochai Agbaji are so similar. They are both described as being versatile players in transition with long arms that are big advantages on defense. Analyzing scouting report language from similar players can provide insight into potential ceilings and floors these players can develop into.
 
 Additionally, we calculated composite scores for each player by combining the similarity ratings with Defensive Player Metrics (DPM) of their most similar counterparts. For instance:
-Alex Sarr's composite score: -1.25
-Zaccharie Risacher's composite score: -1.44
+- Alex Sarr's composite score: -1.25
+- Zaccharie Risacher's composite score: -1.44
 
 The league median for DPM is -0.96, so scores around -1.00 are generally considered solid for incoming rookies.
 We sorted all draft prospects by their composite DPM scores, revealing the following rankings:
