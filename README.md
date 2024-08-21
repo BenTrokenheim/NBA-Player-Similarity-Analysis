@@ -35,9 +35,9 @@ Additionally, we calculated composite scores for each player by combining the si
 
 The league median for DPM is -0.96, so scores around -1.00 are generally considered solid for incoming rookies.
 We sorted all draft prospects by their composite DPM scores, revealing the following rankings:
-1              yves missi       0.269086
-2           bobi klintman       0.153924
-3             jamal shead       0.123689
+1.              yves missi       0.269086
+2.           bobi klintman       0.153924
+3.             jamal shead       0.123689
 4            oso ighodaro       0.105067
 5        tristan da silva       0.063410
 6             judah mintz      -0.010741
